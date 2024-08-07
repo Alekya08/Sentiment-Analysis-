@@ -1,0 +1,11 @@
+pandas
+matplotlib
+seaborn
+nltk
+sklearn==0.0
+tensorflow
+keras
+wordcloud
+xgboost
+jupyter
+gensim
